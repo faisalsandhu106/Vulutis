@@ -370,7 +370,6 @@ nav{
     text-align: center;
     font-size: 7.5vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
 }
 
 .page-4-part-2 div{
@@ -467,8 +466,6 @@ footer{
     animation-direction: alternate;
     animation-timing-function: linear;
     animation-iteration-count: infinite; 
-    
-
 }
 
 @keyframes move-left{
@@ -535,7 +532,7 @@ footer{
     
 }
 
-@media only screen and (max-width:360px){
+@media only screen and (max-width:500px){
 nav{
     display: flex;
     align-items: center;
